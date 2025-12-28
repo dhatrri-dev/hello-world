@@ -1,4 +1,4 @@
 # hello-world
 This is my first Git Repository.
 <br>
-Author - Dhatrri
+Author - Dhatrri Nagapatla
